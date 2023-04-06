@@ -1,7 +1,7 @@
-load 'MyEnumerable.rb'
+load 'my_enumerable.rb'
 
 class MyList
-  def initialize (*args)
+  def initialize(*args)
     @list = args
   end
 
