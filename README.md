@@ -24,7 +24,6 @@
 
 > Used to demonstrate using modules inside of classes and how to implement Enumerable methods.
 
-## Project Screenshots
 
 ## 🛠 Built With <a name="built-with"></a>
 
