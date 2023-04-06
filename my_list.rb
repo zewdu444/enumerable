@@ -1,4 +1,4 @@
-load 'my_enumerable.rb'
+require_relative 'my_enumerable'
 
 class MyList
   def initialize(*args)

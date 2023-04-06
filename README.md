@@ -90,6 +90,8 @@ To run the project, execute the following command in terminal:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > We will be adding finding max and min values in the list.
+> Improve the code to be more readable.
+> Add more methods to the enumerable module.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
