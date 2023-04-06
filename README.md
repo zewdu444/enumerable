@@ -22,7 +22,7 @@
 
 # 📖 Enumerable <a name="about-project"></a>
 
-> Tused to demonstrate using modules inside of classes and how to implement Enumerable
+> Used to demonstrate using modules inside of classes and how to implement Enumerable methods.
 
 ## Project Screenshots
 

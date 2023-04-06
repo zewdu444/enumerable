@@ -5,10 +5,8 @@ class MyList
     @list = args
   end
 
-  def each
-    @list.each do |item|
-      yield item if block_given?
-    end
+  def each(&block)
+    @list.each(&block) if block_given?
   end
 
   include MyEnumerable
